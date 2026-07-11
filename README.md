@@ -1,7 +1,7 @@
 # 📚 Mary English — Group Manager Bot
 
 A Telegram bot that welcomes new group members and teaches English using
-an AI-powered teacher persona ("Mary"), backed by Groq's `llama-3.3-70b-versatile`
+an AI-powered teacher persona ("Mary"), backed by OpenRouter's `Qwen And Deepseek`
 model.
 
 ## Features
@@ -15,8 +15,8 @@ model.
 - **Quizzes** — `/quiz` posts a random multiple-choice grammar question;
   answering `a`, `b`, or `c` in the group checks it automatically.
 - **Lessons, words, tips, text checking** — `/lesson`, `/word`, `/tip`, `/check`.
-- **Smart group triggers** — responds when mentioned (`@botname`), replied to,
-  or addressed by name ("Alex ...").
+- **Smart group triggers** — responds when mentioned (`@Mary_Engl1sh_Bot`), replied to,
+  or addressed by name ("Mary ...").
 
 ## Project Structure
 
